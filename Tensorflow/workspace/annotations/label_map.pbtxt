@@ -1,0 +1,16 @@
+item { 
+	name:'Glass'
+	id:1
+}
+item { 
+	name:'Metal'
+	id:2
+}
+item { 
+	name:'Paper'
+	id:3
+}
+item { 
+	name:'Plastic'
+	id:4
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>glass</folder>
+	<filename>glass48.jpg</filename>
+	<path>C:\Users\alexa\Dropbox\UWO\Eng\Capstone\AI\Tensorflow\workspace\images\collectedimages\glass\glass48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>154</ymin>
+			<xmax>307</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
